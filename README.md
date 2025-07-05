@@ -30,6 +30,11 @@
 
 - Jenkins e GitHub: automação de processos, versionamento de pipelines e integração contínua.
 
+***
+
+## Meus projetos
+
+(Em construção)
 
 <!--
 
